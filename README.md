@@ -5,8 +5,6 @@
 ### Installation
 ##### 1)You need to install all libraries: 
 ###### python.exe -m pip install --upgrade pip
-###### pip install flask-bootstrap 4
-###### pip install flask_wtf
 ###### pip install flask-login
 ##### 2)After installing the necessary libraries, install PostgreSQL.
 ##### 3)Download project to your PC and connect it to your database (change the conn variable in the project.py file).
